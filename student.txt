@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LIB 841 Jessica Stepp</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="project.css">
+
+<table width="100%" style="height: 100%;" cellpadding=10" cellspacing="0" border="0">
+<tr>
+<!-- ============ HEADER SECTION ============ -->
+<td colspan="2" style="height: 100px;">
+<div class="box-1">
+<h1>Tech Tools for Teachers</h1>
+<h2><I>Student Tools</I></h2>
+</div>
+</td>
+</tr>
+
+<!-- ============ LEFT COLUMN (MENU) ============ -->
+<td width="15%" valign="top">
+<div class="box-2">
+<h3>MENU</h3>
+<a href="./index.html"> Home </a>
+<br>
+<a href="./teacher.html"> Teacher Tools </a>
+<br>
+<a href="./student.html"> Student Tools </a>
+<br>
+<a href="./contact.html"> Contact Me </a>
+<br>
+</td>
+</div>
+
+<!-- ============ RIGHT COLUMN (CONTENT) ============ -->
+<td width="85%" valign="top">
+<table style="width:100%">
+<tr>
+<th><a href="https://www.blooket.com/" target="_blank">Blooket</a></th>
+<th><a href="https://nearpod.com/" target="_blank">Nearpod</a></th>
+<th><a href="https://suite.smarttech-prod.com/login?confirmed_country=US" target="_blank">Lumio</a></th>
+<th><a href="https://gokidpower.org/" target="_blank">UNICEF Kid Power</a></th>
+<th><a href="https://www.canva.com/" target="_blank">Canva</a></th>
+</tr>
+<tr>
+<td><img src="blooket.jpeg" alt="Blooket Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="nearpod.png" alt="Nearpod Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="lumio.jpeg" alt="Lumio Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="unicefkidpower.png" alt="UNICEF Kid Power Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="canva.png" alt="Canva Logo" style="width:100px;height200px;" class="center"></td>
+</tr>
+<tr>
+<td><I>Blooket</I> takes review and makes it fun. This site combines trivia and games. Explore the library of pre-made content, or create your own assignment. Players answer questions to help them win games. Students can play in a live game mode versus their classmates or in a solo mode for review on their own time.</td>
+<td><I>Nearpod</I> makes lessons interactive through videos, games, activities, and more. Not only does this tool increase student engagement, but it also provides real-time data to teachers. Lessons can be set to teacher-led or student-paced. <I>Nearpod</I> also has a library of pre-made lessons, or you can create your own.</td>
+<td>Created by the <I>SMART Technologies</I> company, <I>Lumio</I> is a digital learning tool that makes lessons collaborative and engaging. You can upload your own lessons or choose from a variety of lessons uploaded by other teachers. <I>Lumio</I> lessons can also be teacher-led for whole-group learning, or student-paced for individual practice.</td>
+<td><I>UNICEF Kid Power</I> is a great resource for brain breaks in the classroom. As you complete videos, you earn points as a class that unlocks food packets for kids in need around the world. The videos on this site encompass several topics ranging from mental health to physical activity and social/emotional well-being.</td>
+<td><I>Canva</I> is a graphic design tool with pre-made templates that can be customized to your liking. You can use it to create social media posts, presentations, videos, and more. This tool is a great way to allow students to showcase their learning in a variety of different ways, versus a traditional slides presentation.</td>
+</tr>
+</table>
+</td>
+
+<!-- ============ FOOTER SECTION ============ -->
+<tr>
+<td colspan="2" align ="center" height="20">
+Copyright - Jessica Stepp, 2023
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>

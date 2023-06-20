@@ -1,0 +1,17 @@
+Body {background-color:#EBFFEB; color:#1A535C; font-family: Tahoma, Geneva, sans-serif; font-size:17px; font-weight:normal; line-height:1.5em; margin:20px}
+H1 {color:#FF7B9C;}
+H2 {color:#4ECDC4;}
+H3 {color:#4ECDC4;}
+H4 {color:#FF7B9C;}
+.center{display:block; margin-left:auto; margin-right:auto; width:50%;}
+A{text-decoration:none; color:#FF7B9C;}
+A:hover{color:#4ECDC4}
+A:visited{color:none}
+.container{width:80%; margin:auto;}
+.box-1{background-color:#FFF1AD; border: 5px #FF7B9C dotted; padding:20px; border-radius:15px;}
+.box-1 h1{font-family:Marker Felt; font-size: 42px; text-align:center;}
+.box-1 h2{font-family:Arial; font-size: 24px; text-align:center;}
+.box-2 {background-color:#FFF1AD; border: 5px #FF7B9C dotted; padding:25px; border-radius:15px;}
+.box-2 h3{font-family:Marker Felt; font-size: 20px; text-align:center; letter-spacing:0.15em}
+.box-3 {font-family:Arial; font-size: 16px; text-align:left;}
+Td {text-align: center;}

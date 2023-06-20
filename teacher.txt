@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LIB 841 Jessica Stepp</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="project.css">
+
+<table width="100%" style="height: 100%;" cellpadding=10" cellspacing="0" border="0">
+<tr>
+<!-- ============ HEADER SECTION ============ -->
+<td colspan="2" style="height: 100px;">
+<div class="box-1">
+<h1>Tech Tools for Teachers</h1>
+<h2><I>Teacher Tools</I></h2>
+</div>
+</td>
+</tr>
+
+<!-- ============ LEFT COLUMN (MENU) ============ -->
+<td width="15%" valign="top">
+<div class="box-2">
+<h3>MENU</h3>
+<a href="./index.html"> Home </a>
+<br>
+<a href="./teacher.html"> Teacher Tools </a>
+<br>
+<a href="./student.html"> Student Tools </a>
+<br>
+<a href="./contact.html"> Contact Me </a>
+<br>
+</td>
+</div>
+
+<!-- ============ RIGHT COLUMN (CONTENT) ============ -->
+<td width="85%" valign="top">
+<table style="width:100%">
+<tr>
+<th><a href="https://classroomscreen.com/" target="_blank">Classroom Screen</a></th>
+<th><a href="https://classdojo.com/" target="_blank">ClassDojo</a></th>
+<th><a href="https://classroom.relay.school/" target="_blank">Classroom Relay</a></th>
+<th><a href="https://bouncyballs.org/" target="_blank">Bouncy Balls</a></th>
+<th><a href="http://soundsofdisneyland.com/" target="_blank">Sounds of Disneyland</a></th>
+</tr>
+<tr>
+<td><img src="classroomscreen.png" alt="Classroom Screen Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="classdojo.jpeg" alt="ClassDojo Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="classroomrelay.jpeg" alt="Classroom Relay Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="bouncyballs.jpeg" alt="Bouncy Balls Logo" style="width:100px;height200px;" class="center"></td>
+<td><img src="soundsofdisney.jpeg" alt="Sounds of Disneyland Logo" style="width:100px;height200px;" class="center"></td>
+</tr>
+<tr>
+<td><I>Classroom Screen</I> allows you to create a display screen for your students with a variety of widgets such as a timer, a poll option, a voice level monitor, and more! I use this tool every day in my classroom to post daily announcements and take lunch count before the day begins.</td>
+<td><I>Class Dojo</I> is more than a family communication tool. You can also use it for behavior management by awarding "Dojo points" to your students. Class Dojo also has built-in features such as a group maker and a random student name generator.</td>
+<td><I>Classroom Relay</I> is a Chromebook monitoring platform that will allow you to see what your students are doing on their computers in real-time. You can block websites, view browsing history, and redirect your students to a webpage you'd like them to view. I found this tool especially useful during distance learning.</td>
+<td><I>Bouncy Balls</I> is a great classroom management tool to help control the noise level of your students. Just be sure to have a microphone connected to your computer or smart board. You can adjust the sensitivity level and even change the icons on the screen. As students get too loud, the balls bounce higher, and they will hear an alert if their volume level is too loud.</td>
+<td>I love to play music in the classroom while students work, but it makes me especially happy when I can walk around my classroom and enjoy the sounds of Disneyland. This site has a variety of playlists that feature various locations around the parks, including attractions.</td>
+</tr>
+</table>
+</td>
+
+<!-- ============ FOOTER SECTION ============ -->
+<tr>
+<td colspan="2" align ="center" height="20">
+Copyright - Jessica Stepp, 2023
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>

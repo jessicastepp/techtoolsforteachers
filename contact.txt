@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LIB 841 Jessica Stepp</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="project.css">
+
+<table width="100%" style="height: 100%;" cellpadding=10" cellspacing="0" border="0">
+<tr>
+<!-- ============ HEADER SECTION ============ -->
+<div class="container">
+<td colspan="2" style="height: 100px;">
+<div class="box-1">
+<h1>Tech Tools for Teachers</h1>
+<h2><I>Contact Me</I></h2>
+</div></div>
+</td>
+</tr>
+
+<!-- ============ LEFT COLUMN (MENU) ============ -->
+<td width="15%" valign="top">
+<div class="box-2">
+<h3>MENU</h3>
+<a href="./index.html"> Home </a>
+<br>
+<a href="./teacher.html"> Teacher Tools </a>
+<br>
+<a href="./student.html"> Student Tools </a>
+<br>
+<a href="./contact.html"> Contact Me </a>
+<br>
+</td>
+</div>
+
+<!-- ============ RIGHT COLUMN (INFO) ============ -->
+<td width="85%" valign="top">
+<table style="width:100%">
+<tr>
+<td><img src="jstepp.png" alt="Photo of Jessica Stepp" style="width:300px;height400px;" align="left"></td>
+<td>Email Me: <a href="mailto: jessica.stepp@rowan.kyschools.us">jessica.stepp@rowan.kyschools.us</a>
+<br><br>
+Google Contact Form: <a href="https://forms.gle/9qELcUw8M4gDoxq28/" target="_blank"> Click Here</a>
+<br><br>
+<a href="https://twitter.com/jess_stepp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @jess_stepp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td><div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=460%20McBrayer%20Rd&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://embedgooglemap.net/124/">arrival 123movies</a><br><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div></div></td>
+</tr>
+<td>
+
+</table>
+</td>
+
+<!-- ============ FOOTER SECTION ============ -->
+<tr>
+<td colspan="2" align ="center" height="20">
+Copyright - Jessica Stepp, 2023
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>

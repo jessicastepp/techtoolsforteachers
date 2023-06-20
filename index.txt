@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LIB 841 Jessica Stepp</title>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="project.css">
+
+<table width="100%" style="height: 100%;" cellpadding=10" cellspacing="0" border="0">
+<tr>
+<!-- ============ HEADER SECTION ============ -->
+<div class="container">
+<td colspan="2" style="height: 100px;">
+<div class="box-1">
+<h1>Tech Tools for Teachers</h1>
+<h2><I>A growing list of resources for the classroom to make your life easier.</I></h2>
+<img src="teacher-5694365_1280-removebg-preview.png" alt="Teacher with Computer" style="width:300px;height400px;" class="center">
+</div></div>
+</td>
+</tr>
+
+<!-- ============ LEFT COLUMN (MENU) ============ -->
+<td width="15%" valign="top">
+<div class="box-2">
+<h3>MENU</h3>
+<a href="./index.html"> Home </a>
+<br>
+<a href="./teacher.html"> Teacher Tools </a>
+<br>
+<a href="./student.html"> Student Tools </a>
+<br>
+<a href="./contact.html"> Contact Me </a>
+<br>
+<img src="catlaptop.gif" alt="Cat Typing on Laptop" style="width:200px;height300px;" align="left">
+</td>
+</div>
+
+
+
+<!-- ============ RIGHT COLUMN (CONTENT) ============ -->
+<td width="90%" valign="top">
+<div class="box-3">
+<h4>Welcome, educators!</h4>
+On this site, you will find a variety of educational technology tools that I use almost daily in my classroom. I hope you find these resources beneficial to your practice. 
+<br>
+Please use the menu to the left to navigate between pages. See below for a description of each section.
+<br><br>
+<li><b>Teacher Tools:</b> Resources specifically for teacher use; these tools are geared toward classroom management, assessments, etc.</li>
+<li><b>Student Tools:</b> Site to increase student engagement (can be used in a whole class setting, solo, etc.)</li>
+<li><b>Contact Me:</b> Locate my contact information; feel free to reach out if you have any questions or need assistance.</li>
+<br>
+Happy teaching!
+<br>
+<I>- Jessica</I>
+</div>
+</td>
+
+<!-- ============ FOOTER SECTION ============ -->
+<tr>
+<td colspan="2" align ="center" height="20">
+Copyright - Jessica Stepp, 2023
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>
