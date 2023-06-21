@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LIB 841 Jessica Stepp</title>
+<title>Tech Tools for Teachers</title>
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="project.css">
